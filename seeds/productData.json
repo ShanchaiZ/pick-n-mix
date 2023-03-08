@@ -1,0 +1,381 @@
+[
+    {
+        "name": "Apple",
+        "desc": "Juicy red apple used for cooking, eating raw or cider production",
+        "price": 2.99,
+        "category_id": 1,
+        "image": "apple.jpg"
+    },
+    {
+        "name": "Banana",
+        "desc": "Curved yellow fruit",
+        "price": 10.00,
+        "category_id": 1,
+        "image": "banana.jpg"
+    },
+    {
+        "name": "Cabbage",
+        "desc": "Thick green or purple leaves surrounding a spherical heart or head of young leaves",
+        "price": 4.99,
+        "category_id": 1,
+        "image": "cabbage.jpg"
+    },
+    {
+        "name": "Dill",
+        "desc": "Herb used in pickling",
+        "price": 1.99,
+        "category_id": 1,
+        "image": "dill.jpg"
+    },
+    {
+        "name": "Eggplant",
+        "desc": "Eggplants are similar to summer squash or zucchini: tender, mild, and sweet with a slight vegetal bitterness",
+        "price": 5.99,
+        "category_id": 1,
+        "image": "eggplant.jpg"
+    },
+    {
+        "name": "Fennel",
+        "desc": "Fennel has a mild licorice flavor and can be thinly sliced and eaten raw or cooked",
+        "price": 4.75,
+        "category_id": 1,
+        "image": "fennel.jpg"
+    },
+    {
+        "name": "Chicken",
+        "desc": "Chicken is the most common poultry in the world. used in variety of cuisine",
+        "price": 7.99,
+        "category_id": 2,
+        "image": "chicken.jpg"
+    },
+    {
+        "name": "Beef",
+        "desc": "Beef contains protein, iron, and vitamin B12. Beef is used in steak ",
+        "price": 15.99,
+        "category_id": 2,
+        "image": "beef.jpg"
+    },
+    {
+        "name": "Salmon",
+        "desc": "Wild Atlantic Salmon used in variety of seafood dishes and logos",
+        "price": 20.00,
+        "category_id": 2,
+        "image": "salmon.jpg"
+    },
+    {
+        "name": "Milk",
+        "desc": "Nutrient rich for bone development",
+        "price": 7.99,
+        "category_id": 3,
+        "image": "milk.jpg"
+    },
+    {
+        "name": "Ice Cream",
+        "desc": "Sweetened frozen food comes in a variety of flavours",
+        "price": 8.00,
+        "category_id": 3,
+        "image": "icecream.jpg"
+    },
+    {
+        "name": "KitKat",
+        "desc": "Chocolate covered wafer bar that comes in a variety of flavours",
+        "price": 2.99,
+        "category_id": 4,
+        "image": "kitkat.jpg"
+    },
+    {
+        "name": "Smarties",
+        "desc": "Chocolate covered sugar coated candy that comes in a variety of colour",
+        "price": 1.99,
+        "category_id": 4,
+        "image": "smarties.jpg"
+    },
+    {
+        "name": "Ginger",
+        "desc": "Flowering plant that is used as a spice. It can be eaten raw, cooked or used in herbal medicine",
+        "price": 3.99,
+        "category_id": 1,
+        "image": "ginger.jpg"
+    },
+    {
+        "name": "Ham",
+        "desc": "Pork from a leg cut that has been preserved by curing",
+        "price": 15.95,
+        "category_id": 2,
+        "image": "ham.jpg"
+    },
+    {
+        "name": "Potato",
+        "desc": "Starchy root vegetable used as a base in variety of dishes",
+        "price": 5.99,
+        "category_id": 1,
+        "image": "potato.jpg"
+    },
+    {
+        "name": "Carrot",
+        "desc": "Orange root vegetable used in a variety of meals or salads",
+        "price": 4.25,
+        "category_id": 1,
+        "image": "carrot.jpg"
+    },
+    {
+        "name": "Cheese",
+        "desc": "Protein and fats from milk in a variety of flavors",
+        "price": 7.88,
+        "category_id": 3,
+        "image": "cheese.jpg"
+    },
+    {
+        "name": "Yogurt",
+        "desc": "Fermentation of sugars in milk. Used to make sauces and marinades",
+        "price": 7.99,
+        "category_id": 3,
+        "image": "yogurt.jpg"
+    },
+    {
+        "name": "Butter",
+        "desc": "Churned milk used in baking, sauce making and pan frying",
+        "price": 6.99,
+        "category_id": 3,
+        "image": "butter.jpg"
+    },
+    {
+        "name": "Gummy Bears",
+        "desc": "Bear shaped gummy snack",
+        "price": 2.99,
+        "category_id": 4,
+        "image": "gummybears.jpg"
+    },
+    {
+        "name": "Avocado",
+        "desc": "Single seed large berry used in cooking or eating fresh",
+        "price": 4.95,
+        "category_id": 1,
+        "image": "avocado.jpg"
+    },
+    {
+        "name": "Grapes",
+        "desc": "Grapes can be eaten fresh, or used in wine, jam, vinegar or dried for raisins",
+        "price": 4.95,
+        "category_id": 1,
+        "image": "grapes.jpg"
+    },
+    {
+        "name": "Beets",
+        "desc": "Taproot portion of a beet plant. Earthy flavour used in salads",
+        "price": 5.76,
+        "category_id": 1,
+        "image": "beets.jpg"
+    },
+    {
+        "name": "Blueberries",
+        "desc": "Bluerries are used in cake, jam, or eating fresh",
+        "price": 2.33,
+        "category_id": 1,
+        "image": "blueberries.jpg"
+    },
+    {
+        "name": "Broccoli",
+        "desc": "Edible green plant rich in vitamin C and K and can be eaten cooked or fresh",
+        "price": 5.00,
+        "category_id": 1,
+        "image": "broccoli.jpg"
+    },
+    {
+        "name": "Cucumber",
+        "desc": "Green vegetable used for salads and pickling",
+        "price": 2.00,
+        "category_id": 1,
+        "image": "cucumber.jpg"
+    },
+    {
+        "name": "Green Beans",
+        "desc": "Green beans are can be eaten fresh, steamed, or stir-fried and commonly used in soups, stews and casseroles",
+        "price": 5.00,
+        "category_id": 1,
+        "image": "greenbeans.jpg"
+    },
+    {
+        "name": "Garlic",
+        "desc": "Bulbous flowering plant used to ward off vampires. Key ingredient in garlic bread",
+        "price": 5.00,
+        "category_id": 1,
+        "image": "garlic.jpg"
+    },
+    {
+        "name": "Lettuce",
+        "desc": "Leafy vegetable used as a base in salads",
+        "price": 3.00,
+        "category_id": 1,
+        "image": "lettuce.jpg"
+    },
+    {
+        "name": "Lemon",
+        "desc": "Sour citrus fruit that is a key ingredient in drinks and pies. Rich in vitamin C",
+        "price": 6.00,
+        "category_id": 1,
+        "image": "lemon.jpg"
+    },
+    {
+        "name": "Limes",
+        "desc": "Limes are a rich source of vitamin C, are sour, and are often used to accent the flavours of foods and beverages",
+        "price": 6.00,
+        "category_id": 1,
+        "image": "limes.jpg"
+    },
+    {
+        "name": "Kale",
+        "desc": "Green leafy super food",
+        "price": 7.00,
+        "category_id": 1,
+        "image": "kale.jpg"
+    },
+    {
+        "name": "Mushrooms",
+        "desc": "Vegan meat used in cooking for its umami flavour",
+        "price": 2.00,
+        "category_id": 1,
+        "image": "mushrooms.jpg"
+    },
+    {
+        "name": "Mango",
+        "desc": "An edible stone fruit used in chutneys, pickles, and curries or eaten fresh",
+        "price": 1.00,
+        "category_id": 1,
+        "image": "mango.jpg"
+    },
+    {
+        "name": "Pear",
+        "desc": "Woody fruit that can be consumed fresh, juiced or canned",
+        "price": 4.00,
+        "category_id": 1,
+        "image": "pear.jpg"
+    },
+    {
+        "name": "Onions",
+        "desc": "Used in dishes to make them savoury",
+        "price": 10.99,
+        "category_id": 1,
+        "image": "onions.jpg"
+    },
+    {
+        "name": "Parsley",
+        "desc": "Used to garnish dishes",
+        "price": 2.66,
+        "category_id": 1,
+        "image": "parsley.jpg"
+    },
+    {
+        "name": "Peas",
+        "desc": "Used in pea soup or genetic experiments",
+        "price": 4.33,
+        "category_id": 1,
+        "image": "peas.jpg"
+    },
+    {
+        "name": "Pineapple",
+        "desc": "Exotic fruit used in smoothies",
+        "price": 6.03,
+        "category_id": 1,
+        "image": "pineapple.jpg"
+    },
+    {
+        "name": "Pumpkin",
+        "desc": "A type of squash used in pies and halloween decorations",
+        "price": 7.00,
+        "category_id": 1,
+        "image": "pumpkin.jpg"
+    },
+    {
+        "name": "Strawberries",
+        "desc": "A red berry used for smoothies, jam, or eating raw",
+        "price": 8.00,
+        "category_id": 1,
+        "image": "strawberries.jpg"
+    },
+    {
+        "name": "Watermelon",
+        "desc": "Used for smoothies, cook outs, or eating fresh",
+        "price": 5.00,
+        "category_id": 1,
+        "image": "watermelon.jpg"
+    },
+    {
+        "name": "Kiwi",
+        "desc": "An edible berry that is fuzzy outside, sweet and soft texture inside.",
+        "price": 4.00,
+        "category_id": 1,
+        "image": "kiwi.jpg"
+    },
+    {
+        "name": "Tomatoes",
+        "desc": "Botanically classified as berries and provide an umami flavour in vegetable dishes",
+        "price": 5.00,
+        "category_id": 1,
+        "image": "tomatoes.jpg"
+    },
+    {
+        "name": "Jawbreakers",
+        "desc": "Hard candy that dissolves slowly and tests your patience",
+        "price": 0.99,
+        "category_id": 4,
+        "image": "jawbreakers.jpg"
+    },
+    {
+        "name": "Laffy Taffy",
+        "desc": "Taffy that come in variety of flavours",
+        "price": 2.99,
+        "category_id": 4,
+        "image": "laffytaffy.jpg"
+    },
+    {
+        "name": "Nerds",
+        "desc": "Crunchy candy made by Willy Wonka",
+        "price": 2.99,
+        "category_id": 4,
+        "image": "nerds.jpg"
+    },
+    {
+        "name": "Pop Rocks",
+        "desc": "Candy that goes great with fizzy drinks",
+        "price": 1.99,
+        "category_id": 4,
+        "image": "poprocks.jpg"
+    },
+    {
+        "name": "Skittles",
+        "desc": "Fruit flavoured button-shaped candy",
+        "price": 1.35,
+        "category_id": 4,
+        "image": "skittles.jpg"
+    },
+    {
+        "name": "Starburst",
+        "desc": "Box shaped taffy candy",
+        "price": 3.99,
+        "category_id": 4,
+        "image": "starburst.jpg"
+    },
+    {
+        "name": "Mutton",
+        "desc": "Wonderful and expensive addition to barbeque and curries",
+        "price": 18.99,
+        "category_id": 2,
+        "image": "mutton.jpg"
+    },
+    {
+        "name": "Trout",
+        "desc": "Freshwater bony fish rich in flavour",
+        "price": 9.99,
+        "category_id": 2,
+        "image": "trout.jpg"
+    },
+    {
+        "name": "Carton of Eggs",
+        "desc": "A carton of 12 eggs fresh from the farmer's market",
+        "price": 5.99,
+        "category_id": 2,
+        "image": "cartonofeggs.jpg"
+    }
+
+]
