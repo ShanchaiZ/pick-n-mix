@@ -15,7 +15,7 @@ envVarGroups:
 - name: mysql
   envVars:
   - key: MYSQL_DATABASE
-    value: mysql
+    value: shoppinglist_db
   - key: MYSQL_USER
     value: mysql
   - key: MYSQL_PASSWORD
