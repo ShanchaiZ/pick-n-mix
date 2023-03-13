@@ -1,14 +1,14 @@
-const User = require("./User");
+const UserInfo = require("./UserInfo");
 const Product = require("./Product");
 const Category = require("./Category");
 const ListItem = require("./ListItem");
 
 // The relationships defined between each models 
-User.hasMany(ListItem, {
+UserInfo.hasMany(ListItem, {
   foreignKey: "user_id",
 });
 
-ListItem.belongsTo(User, {
+ListItem.belongsTo(UserInfo, {
   foreignKey: "user_id",
 });
 
@@ -29,4 +29,4 @@ ListItem.belongsTo(Product, {
 });
 
 
-module.exports = { User, Product, Category, ListItem };
+module.exports = { UserInfo, Product, Category, ListItem };

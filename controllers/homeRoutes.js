@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const { User, ListItem, Product, Category } = require("../models");
+const { UserInfo, ListItem, Product, Category } = require("../models");
 const withAuth = require("../utils/auth");
 
 // Route that displays all products to the homepage
@@ -43,7 +43,7 @@ router.get("/list", withAuth, async (req, res) => {
     const listItemData = await ListItem.findAll({
       include: [
         {
-          model: User,
+          model: UserInfo,
           attributes: { exclude: ["password"] },
           where: { id: req.session.user_id },
         },
